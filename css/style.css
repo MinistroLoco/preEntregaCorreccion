@@ -6,7 +6,7 @@
     font-family: 'Roboto', sans-serif;
     display: grid;
     grid-template-columns: 1fr 2fr;
-    grid-template-rows: 200px 500px 100px;
+    grid-template-rows: 300px 100px 200px 200px;
     grid-template-areas: 
     "nav nav"
     "text img1"
@@ -34,14 +34,21 @@
 
 .header_home{
     grid-area: nav;
+    -ms-grid-column-align:;
 }
 
 h1{
     grid-area: text;
+    font-size: 1rem;
 }
 
 footer{
     grid-area: pie;
+}
+
+.icon-pie{
+    height: 50px;
+    width: 50px;
 }
 
 
