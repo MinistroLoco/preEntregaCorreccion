@@ -273,3 +273,13 @@ form{
     grid-area: frame2;
 }
 
+/* --------Media queries --------*/
+@media only screen and (min-width: 565px) and (max-width: 935px){
+    .header_home{
+        display: flex;
+        flex-direction: column;
+        margin: 0;
+        padding: 0;
+        align-items: center;
+    }
+}
