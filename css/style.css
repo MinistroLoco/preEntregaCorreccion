@@ -147,14 +147,19 @@ form{
 
 .bh1{
     grid-area: title1;
+    color: #B6C4B6;
+    font-size: 2rem;
 }
 
 .img-b1{
     grid-area: img1;
+    
 }
 
 .p-article{
     grid-area: txt;
+    color: #F2F1EB;
+    font-size: 1rem;
 }
 
 .img-article2{
@@ -163,6 +168,8 @@ form{
 
 .bh2{
     grid-area: title2;
+    color: #B6C4B6;
+    font-size: 2rem;
 }
 
 .img-b2{
@@ -179,6 +186,8 @@ form{
 
 .bh3{
     grid-area: title3;
+    color: #B6C4B6;
+    font-size: 2rem;
 }
 
 .iframe-b2{
