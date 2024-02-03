@@ -1,12 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 
 
-/* Body index */
+/* ---------------INDEX------------- */
 /* Paleta de colores 
 #12372A
 #436850
 #ADBC9F */
+/* Encabezado */
 .home{
+    padding: 0;
+    margin: 0;
     font-family: 'Roboto', sans-serif;
     
 }
@@ -44,7 +47,6 @@
 
 }
 
-
 .nav-header{
     list-style: none;
     display: flex;
@@ -61,4 +63,10 @@ ul{
     justify-content: space-evenly;
     color: white;
     gap: 1rem;
+}
+
+/*Articulo*/
+.resenia{
+    display: flex;
+
 }
