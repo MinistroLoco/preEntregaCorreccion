@@ -196,12 +196,12 @@ form{
 }
 
 /* Guitarras electricas */
-.guiar{
+.guitar{
     background-color: #DCF2F1;
     
 }
 
-.h1-Carrousel{
+.h1-carrousel{
     text-align: center;
     margin: 2rem;
 }
@@ -209,5 +209,6 @@ form{
 .carousel-inner{
     background-color:#092635;
     margin-bottom: 2rem;
+    
 }
 
