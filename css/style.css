@@ -1,7 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 
 
-/* Body */
+/* Body index */
+/* Paleta de colores 
+#12372A
+#436850
+#ADBC9F */
 .home{
     font-family: 'Roboto', sans-serif;
     
@@ -34,6 +38,7 @@
     flex-direction: row;
     justify-content: space-between;
     align-items: flex-start;
+
 }
 
 
